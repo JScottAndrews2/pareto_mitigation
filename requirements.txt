@@ -1,0 +1,6 @@
+fairlearn==0.8.0
+ipykernel==6.19.2
+matplotlib==3.7.1
+numpy==1.24.2
+pandas==2.0.0
+scikit-learn==1.2.2
